@@ -1,7 +1,7 @@
 name: ASR
 main: iJoshuaHD\iMCPE\ASR\Loader
 version: 2.0.2
-api: [1.12.0]
+api: [2.0.0,3.0.0,3.0.0=ALPHA4,3.0.0-ALPHA5]
 load: STARTUP
 author: iJoshuaHD
 description: Restarts your server at given interval.
